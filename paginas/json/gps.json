@@ -1,0 +1,26 @@
+[
+    {   
+        "id": 1, 
+        "nombre": "GpsMap", 
+        "version": "7410 xsv", 
+        "marca": "Garmin", 
+        "precio": "$ 458.000",
+        "img": "img/tienda/gps/imagen1.jpg"
+    },
+    {   
+        "id": 2, 
+        "nombre": "GpsMap", 
+        "version": "7412", 
+        "marca": "Garmin", 
+        "precio": "$ 591.000",
+        "img": "img/tienda/gps/imagen2.jpg"
+    },
+    {   
+        "id": 3, 
+        "nombre": "GpsMap", 
+        "version": "7412 xsv", 
+        "marca": "Garmin", 
+        "precio": "$ 687.000",
+        "img": "img/tienda/gps/imagen3.jpg"
+    }
+]

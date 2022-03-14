@@ -1,0 +1,65 @@
+[
+    {   
+        "id": 1, 
+        "nombre": "COMBO 1 - Kit de elementos de seguridad", 
+        "marca": "Roan", 
+        "precio": "$ 49.000",
+        "img": "img/tienda/seguridad/imagen1.jpg"
+    },
+    {   
+        "id": 2, 
+        "nombre": "COMBO 2 - Kit de elementos de seguridad", 
+        "marca": "Roan", 
+        "precio": "$ 26.000",
+        "img": "img/tienda/seguridad/imagen2.jpg"
+    },
+    {   
+        "id": 3, 
+        "nombre": "COMBO 3 - Kit de elementos de seguridad", 
+        "marca": "Roan", 
+        "precio": "$ 19.000",
+        "img": "img/tienda/seguridad/imagen3.jpg"
+    },
+    {   
+        "id": 4, 
+        "nombre": "Bengala de mano direccional", 
+        "marca": "Neptuno", 
+        "precio": "$ 2.500",
+        "img": "img/tienda/seguridad/imagen4.jpg"
+    },
+    {   
+        "id": 5, 
+        "nombre": "Bengala de mano direccional c/ paracaidas", 
+        "marca": "PainWessex", 
+        "precio": "$ 8.500",
+        "img": "img/tienda/seguridad/imagen5.jpg"
+    },
+    {   
+        "id": 6, 
+        "nombre": "Bengala de humo naranja", 
+        "marca": "Comet", 
+        "precio": "$ 4.500",
+        "img": "img/tienda/seguridad/imagen6.jpg"
+    },
+    {   
+        "id": 7, 
+        "nombre": "2 Chalecos Salvavidas c/ silbato", 
+        "marca": "Oxigeno", 
+        "precio": "$ 2.250",
+        "img": "img/tienda/seguridad/imagen7.jpg"
+    },
+    {   
+        "id": 8, 
+        "nombre": "3 Chalecos Salvavidas c/ silbato", 
+        "marca": "Oxigeno", 
+        "precio": "$ 3.400",
+        "img": "img/tienda/seguridad/imagen8.jpg"
+    },
+    {   
+        "id": 9, 
+        "nombre": "4 Chalecos Salvavidas c/ silbato", 
+        "marca": "Oxigeno", 
+        "precio": "$ 5.200",
+        "img": "img/tienda/seguridad/imagen9.jpg"
+    }
+]

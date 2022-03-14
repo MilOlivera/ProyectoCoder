@@ -1,0 +1,1200 @@
+*{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-kerning: auto;
+}
+
+html{
+  background: #ECEEEE;
+  font-size: 10pt;
+  line-height: 1.4;
+  font-weight: 400;
+}
+
+#headerHome{
+  width: 100%;
+  padding: 40px 30px;
+  font-size: 300%;
+  top: 100vh;
+  left: 0;
+  transition: opacity .2s easy-in-out;
+  text-align: center;
+  margin-top: 0px; 
+  background-color: #AAF7E5;
+  background-size: cover;
+  border-bottom-left-radius: 20%;
+}
+
+#headerHome h1{
+  font-weight: 900;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  font-size: inherit;
+  margin-bottom: 20%;
+  color: #7a7a7a;
+}
+
+#logoHome{
+  margin-left: -50%;
+}
+
+
+#navHome a{
+  display: inline-block;
+  outline: none;
+  text-decoration: none;
+  opacity: .7;
+  padding: 0 .5em;
+  color: #7a7a7a;
+  transition: opacity .2s ease-in-out;
+  font-size: 40%;
+  margin-top: 70%;
+  font-weight: 500;
+}
+#navHome a:hover,
+#navHome a:focus {
+  opacity: 1;
+  color: black;
+  border-radius: 20%;
+  padding: 10px;
+  transition: all 300ms;
+} 
+#headerAstillero{
+  width: 100%;
+  padding: 40px 30px;
+  font-size: 300%;
+  top: 100vh;
+  left: 0;
+  transition: opacity .2s easy-in-out;
+  text-align: center;
+  margin-top: 0px; 
+  background-color: #AAF7E5;
+  background-size: cover;
+  border-bottom-left-radius: 20%;
+}
+
+#headerAstillero h1{
+  font-weight: 900;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  font-size: inherit;
+  margin-bottom: 20%;
+  color: #7a7a7a;
+}
+
+#logoAstillero{
+  margin-left: -21%;
+}
+
+
+#navAstillero a{
+  display: inline-block;
+  outline: none;
+  text-decoration: none;
+  opacity: .7;
+  padding: 0 .5em;
+  color: #7a7a7a;
+  transition: opacity .2s ease-in-out;
+  font-size: 40%;
+  margin-top: 25%;
+  font-weight: 500;
+}
+#navAstillero a:hover,
+#navAstillero a:focus {
+  opacity: 1;
+  color: black;
+  border-radius: 20%;
+  padding: 10px;
+  transition: all 300ms;
+} 
+
+
+#headerGuarderia{
+  width: 100%;
+  padding: 40px 30px;
+  font-size: 300%;
+  top: 100vh;
+  left: 0;
+  transition: opacity .2s easy-in-out;
+  text-align: center;
+  margin-top: 0px; 
+  background-color: #AAF7E5;
+  background-size: cover;
+  border-bottom-left-radius: 20%;
+}
+
+#headerGuarderia h1{
+  font-weight: 900;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  font-size: inherit;
+  margin-bottom: 20%;
+  color: #7a7a7a;
+}
+
+#logoGuarderia{
+  margin-left: -21%;
+}
+
+
+#navGuarderia a{
+  display: inline-block;
+  outline: none;
+  text-decoration: none;
+  opacity: .7;
+  padding: 0 .5em;
+  color: #7a7a7a;
+  transition: opacity .2s ease-in-out;
+  font-size: 40%;
+  margin-top: 25%;
+  font-weight: 500;
+}
+#navGuarderia a:hover,
+#navGuarderia a:focus {
+  opacity: 1;
+  color: black;
+  border-radius: 20%;
+  padding: 10px;
+  transition: all 300ms;
+} 
+
+#headerContacto{
+  width: 100%;
+  padding: 40px 30px;
+  font-size: 300%;
+  top: 100vh;
+  left: 0;
+  transition: opacity .2s easy-in-out;
+  text-align: center;
+  margin-top: 0px; 
+  background-color: #AAF7E5;
+  background-size: cover;
+  border-bottom-left-radius: 20%;
+}
+
+#headerContacto h1{
+  font-weight: 900;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  font-size: inherit;
+  margin-bottom: 20%;
+  color: #7a7a7a;
+}
+
+#logoContacto{
+  margin-left: -21%;
+}
+
+
+#navContacto a{
+  display: inline-block;
+  outline: none;
+  text-decoration: none;
+  opacity: .7;
+  padding: 0 .5em;
+  color: #7a7a7a;
+  transition: opacity .2s ease-in-out;
+  font-size: 40%;
+  margin-top: 25%;
+  font-weight: 500;
+}
+#navContacto a:hover,
+#navContacto a:focus {
+  opacity: 1;
+  color: black;
+  border-radius: 20%;
+  padding: 10px;
+  transition: all 300ms;
+} 
+
+#headerTienda{
+  width: 100%;
+  padding: 40px 30px;
+  font-size: 300%;
+  top: 100vh;
+  left: 0;
+  transition: opacity .2s easy-in-out;
+  text-align: center;
+  margin-top: 0px; 
+  background-color: #AAF7E5;
+  background-size: cover;
+  border-bottom-left-radius: 20%;
+}
+
+#headerTienda h1{
+  font-weight: 900;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  font-size: inherit;
+  margin-bottom: 20%;
+  color: #7a7a7a;
+}
+
+#logoTienda{
+  margin-left: -21%;
+}
+
+
+#navTienda a{
+  display: inline-block;
+  outline: none;
+  text-decoration: none;
+  opacity: .7;
+  padding: 0 .5em;
+  color: #7a7a7a;
+  transition: opacity .2s ease-in-out;
+  font-size: 40%;
+  margin-top: 24%;
+  font-weight: 500;
+}
+#navTienda a:hover,
+#navTienda a:focus {
+  opacity: 1;
+  color: black;
+  border-radius: 20%;
+  padding: 10px;
+  transition: all 300ms;
+} 
+
+#headerVenta{
+  width: 100%;
+  padding: 40px 30px;
+  font-size: 300%;
+  top: 100vh;
+  left: 0;
+  transition: opacity .2s easy-in-out;
+  text-align: center;
+  margin-top: 0px; 
+  background-color: #AAF7E5;
+  background-size: cover;
+  border-bottom-left-radius: 20%;
+}
+
+#headerVenta h1{
+  font-weight: 900;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  font-size: inherit;
+  margin-bottom: 20%;
+  color: #7a7a7a;
+}
+
+#logoVenta{
+  margin-left: -30%;
+}
+
+
+#navVenta a{
+  display: inline-block;
+  outline: none;
+  text-decoration: none;
+  opacity: .7;
+  padding: 0 .5em;
+  color: #7a7a7a;
+  transition: opacity .2s ease-in-out;
+  font-size: 40%;
+  margin-top: 31.5%;
+  font-weight: 500;
+}
+#navVenta a:hover,
+#navVenta a:focus {
+  opacity: 1;
+  color: black;
+  border-radius: 20%;
+  padding: 10px;
+  transition: all 300ms;
+} 
+
+
+
+
+@media(min-width:800px){
+  header{
+    text-align: left;
+  }
+}
+@media(min-width:800px){
+nav{
+  float: right;
+  }
+ }
+
+
+/* LAS CARDS */
+
+body{
+  background: #ECEEEE;
+}
+
+.cuerpo{
+  margin-top: 0%;
+  margin-bottom: 30px;
+  
+}
+.containerHome{
+  max-width: 2000px;
+  padding: 20px;
+  padding-bottom: 20px;
+  margin: auto;
+  margin-top: 90px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card{
+width: 300px;
+position: relative;
+margin: 16px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+transition: all 300ms;  
+border-radius: 10%;
+opacity: 1;
+
+}
+
+.card:hover{
+    box-shadow: 1px 1px 20px -10px darkgoldenrod;
+}
+
+.card:hover .descripcion{
+  margin-top: 0px;
+  border-radius: 0% 0% 10% 10%;
+}
+
+.card:hover .img{
+  margin-top: -110px;
+  border-radius: 10% 10% 1% 1%;
+}
+.img{
+    width: 100%;
+    height: 220px;
+    background-color: #EFF3F5;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+    transition: all 400ms;
+    border-radius: 10%;
+    opacity: 0.6;
+}
+
+.descripcion{
+  width: 100%;
+  color: darkgoldenrod;
+  background: #EFF3F5;
+  padding: 10px;
+  margin-top: -210px;
+  transition: all 400ms cubic-bezier(0.5, 0, 0,1);
+  text-align: center;
+  border-radius: 10%;
+}
+
+.descripcion p{
+font-size: 14px;
+margin-top: 10px;
+display: -webkit-box;
+display: -moz-box;
+display: box;
+-webkit-box-orient: vertical;
+-moz-box-orient: vertical;
+box-orient: vertical;
+-webkit-line-clamp: 5;
+-moz-line-clamp: 5;
+line-clamp: 5;
+overflow: hidden;
+color: black;
+font-weight: bold;
+letter-spacing: 1.2em;
+}
+
+
+.descripcion input{
+  margin-top: 20px;
+  padding: 10px 30px;
+  background: darkgoldenrod;
+  color: white;
+  font-weight: 500;
+  font-size: 14px;
+  cursor: pointer;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 1px 1px 30px -5px #20202049;
+  transition: box-shadow 300ms;
+}
+
+.descripcion input:hover{
+  color: darkgoldenrod;
+  background-color: lightgoldenrodyellow;
+  transition: all 200ms;
+  box-shadow:1px 1px 30px -5px #20202049;
+
+}
+
+.c1:hover .img{
+  background: lightgoldenrodyellow;
+}
+
+
+.c2:hover .img{
+  background: lightgoldenrodyellow;
+}
+
+
+.c3:hover .img{
+  background: lightgoldenrodyellow;
+}
+
+.contenedor-footer{
+  width: 100%;
+  padding: 50px 0px;
+  height: 80%;
+}
+
+footer{
+  width: 100%;
+  padding: 0px 0px;
+  background-color: #AAF7E5;
+  background-size: cover;
+  margin-top: 8%;
+  border-top-right-radius: 10%;
+}
+
+.contenedor-footer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.box-footer{
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  margin-top: 0%;
+}
+
+
+.box-footer h2{
+  margin-bottom: 30px;
+  color: #7a7a7a;
+  font-weight: 700;
+}
+
+.box-footer a{
+  margin-top: 10px;
+  color: #7a7a7a;
+  font-weight: 600;
+  }
+
+.box-footer a:hover{
+    opacity: 0.8;
+  }
+
+.box-footer a .fab{
+  font-size: 20px;
+  padding: 10px;
+}
+
+.box-copyright{
+  max-width: 1200px;
+  margin: auto;
+  text-align: center;
+  padding: 0px 40px;
+}
+
+.box-copyright p{
+  margin-top: 20px;
+  color: #7a7a7a;
+}
+
+.box-copyright hr{
+  border: none;
+  height: 1px;
+  background-color: #7a7a7a;
+}
+
+.linkFooter{
+  text-decoration: none;
+}
+
+.pnorte1{
+  width: 150px;
+}
+
+.pnorte2{
+  width: 250px;
+}
+
+.box-footer1{
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  margin-top: 0%;
+}
+
+.box-footer1 h2{
+  margin-bottom: 40px;
+  color: #7a7a7a;
+  font-weight: 700;
+}
+
+.box-footer1 .fas{
+  font-size: 20px;
+  padding: 10px;
+}
+
+.contacto{
+  color: #7a7a7a;
+  font-weight: 600;
+  }
+
+  .contacto:hover{
+      opacity: 0.8;
+    }
+
+  .volver {
+    margin-top: -3.5%;
+  }
+
+
+  #btnDarkMode{
+    border: none;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 150%;
+    color: #B38FE1;
+  }
+
+  #btnDarkMode:hover{
+    font-size: 250%;
+  }
+
+  #btnLightMode{
+    border: none;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 150%;
+    color: #F6E81C;
+    background-color: black ;
+  }
+
+  #btnLightMode:hover{
+    font-size: 250%;
+  }
+
+  #climaTitulo{
+    border: none;
+    margin-left: 100%;
+    color: darkgoldenrod;
+    width: 100%;
+    text-transform: uppercase;
+  }
+  
+  #divClima{
+    margin-left: 60%;
+    margin-top: -1%;
+    color: #7a7a7a;
+
+  }
+
+
+#icono{
+    width: 80%;
+    margin-left: 100%;
+  }
+
+#clima2{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#api{
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 5%;
+  margin-left: -5%;
+  color: darkgoldenrod;
+  text-transform: uppercase;
+}
+
+#temp{
+  margin-left: 40%;
+}
+
+/* ASTILLERO ASTILLERO ASTILLERO */
+
+  
+
+.astilleroTitulo {
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+  margin-top: 5%;
+  color: #7a7a7a;
+}
+
+.astilleroSubTitulo {
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+  margin-top: 3px;
+  color: #7a7a7a;
+}
+
+
+.datosPersonales{
+font-weight: 600;
+margin-left: 10%;
+letter-spacing: 1px;
+margin-top: 10%;
+color: #7a7a7a;
+}
+
+#formAstillero{
+margin-top: 4px;
+}
+
+.container3{
+width: 50%;
+padding: 20px;
+display: flex;
+flex-wrap: wrap;
+margin-left: 15%;
+}
+
+.datosEmbarcaciones{
+font-weight: 600;
+margin-left: 10%;
+letter-spacing: 1px;
+margin-top: 8%;
+color: #7a7a7a;
+
+}
+
+#nombre{
+width: 325%;
+}
+
+
+
+#tel, #telefono{
+margin-left: 70%;
+}
+
+#telefono{
+width: 120%;
+}
+
+#fecha{
+width: 150%;
+}
+
+#registro{
+width: 100%;
+}
+
+#eslo{
+margin-bottom: 0%;
+}
+#eslo, #eslora{
+margin-top: 6px;
+}
+
+#eslora{
+width: 200%;
+}
+
+#motorr{
+margin-bottom: 0%;
+}
+#motorr, #motor{
+margin-top: 6px;
+}
+
+#motor{
+width: 200%;
+}
+
+#btnAstillero{
+margin-left: 70%;
+margin-top: 70px;
+}
+
+#selectFecha{
+  width: 140%;
+  margin-top: -1%;
+  margin-left: -1%;
+}
+
+    /* CALENDARIO CALENDARIO CALENDARIO */
+
+.bodyCalendario{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      height: 100vh;
+      margin-bottom: -45%;
+    }
+    
+.calendario{
+      padding: 20px;
+      box-shadow: 0 0 12px #CCCCCC;
+      border-radius: 5%;
+      margin-left: 50%;
+      margin-top: -105%;
+    }
+    
+.mes-semana{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 30px;
+      opacity: 1;
+    }
+    
+.mes-semana span{
+      font-size: 13px;
+      margin-left: 5px;
+      background-color: #AAF7E5;
+      color: black;
+      padding: 5px 15px;
+      border-radius: 50px;
+      cursor: pointer;
+    }
+    
+.mes-semana span:last-child{
+      background-color: transparent;
+      color: black;
+      border: 1px solid #AAF7E5;
+    }
+    
+.semanas{
+      margin-bottom: 20px;
+    }
+    
+.semanas span{
+      padding: 14.5px;
+      color: #CCCCCC;
+    }
+    
+.dias{
+      display: flex;
+    }
+    
+.dias span{
+      width: 14.30%;
+      text-align: center;
+      padding: 30px 20px;
+      cursor: pointer;
+      position: relative;
+      z-index: 1;
+      transition: 0.5s;
+    }
+    
+.dias span:not(.sigMes):before, div span:not(.antMes)::before{
+      content: "";
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50% );
+      width: 40px;
+      height: 40px;
+      background-color: #AAF7E5;
+      border-radius: 100%;
+      z-index: -1;
+      opacity: 0;
+      transition: 0.5s;
+    }
+  
+    
+.dias span:not(.sigMes):hover, div span:not(.antMes):hover{
+      color: #EFF3F5;
+    }
+.dias span:not(.sigMes):hover::before, div span:not(.antMes):hover::before{
+      opacity: 1;
+    }
+    
+.sigMes, .antMes{
+      color: #CCCCCC !important;
+      cursor: not-allowed !important;
+    }
+    
+#modificar{
+      margin-top: 18px;
+      width: 110%;
+    }
+  
+#bordeFecha{
+  width: 40%;
+    }
+  
+#fechaAca{
+      margin-top: 2px;
+    }
+
+.btnFecha{
+  border: none;
+  background-color: transparent;
+}
+
+
+/* CONTACTO CONTACTO CONTACTO */
+
+
+.contactoTitulo {
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+  margin-top: 5%;
+  color: #7a7a7a;
+}
+
+.contactoSubTitulo {
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+  margin-top: 3px;
+  color: #7a7a7a;
+}
+
+.datosContacto{
+  padding: 10px 150px;
+}
+
+
+#btnContacto{
+  padding: 10px;
+  margin-left: 50%;
+  margin-top: 40px;
+  border-radius: 15%;
+}
+
+
+
+/* GUARDERIA GUARDERIA GUARDERIA */
+
+
+
+.guarderiaTitulo {
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+  margin-top: 5%;
+  color: #7a7a7a;
+}
+
+.guarderiaSubTitulo {
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+  margin-top: 3px;
+  color: #7a7a7a;
+}
+
+#cont{
+  margin-top: 10%;
+  margin-left: 10%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card2, #card3{
+  border-radius: 3%;
+}
+
+.card2:hover, #card3:hover{
+  box-shadow: 1px 1px 0.5px 0.5px #AAF7E5;
+  transition: all 400ms;
+}
+
+
+.titulos{
+  margin-top: 4%;
+  color: #7a7a7a;
+}
+
+.btnContacto1{
+  margin-top: 4%;
+  margin-left: 40%;
+  border-radius: 10%
+}
+
+#flecha{
+margin-left: 4%;
+margin-top: 5%;
+font-size: 500%;
+}
+
+#cardGuarderia{
+height: 50%;
+margin-left: 7%;
+width: 150%;
+background-color: white;
+border-radius: 5%;
+padding: 5px 15px;
+}
+
+label{
+padding: 1%;
+color: black;
+border-radius: 3%;
+}
+
+.form-select{
+margin: 2%
+}
+
+#card3{
+height: 50%;
+margin-left: 10%;
+width: 150%;
+height: 90%;
+background-color: white;
+border-radius: 5%;
+padding: 5px 15px;
+margin-top: 5%;
+}
+
+#cuota2{
+color: green;
+text-align: center;
+font-size: xx-large;
+margin-top: 20px;
+}
+
+#cuota2:hover{
+background-size: contain;
+border: 2px #7a7a7a;
+}
+
+#cardTitulo{
+background-color: lightgray;
+text-align: center;
+border-radius: 10%;
+}
+#masInfo{
+margin-left: 25%;
+margin-top: 15px;
+} 
+
+
+
+/* TIENDA TIENDA TIENDA */
+
+#tiendaTitulo {
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+  margin-top: 5%;
+  color: #7a7a7a;
+  margin-left: 35%;
+}
+
+.nav-link{
+margin-top: 10px;
+color: #7a7a7a;
+font-size: 400;
+padding: 30px;
+}
+
+
+.nav-link:hover{
+background-color: #AAF7E5;
+color: black;
+border-radius: 30%;
+transition: all 400ms;
+}
+
+
+.contenedorTienda{
+width: 95%;
+display: flex;
+flex-wrap: wrap;
+margin-top: 5%;
+margin-left: 3.5%;
+
+}
+
+#cardTienda{
+margin: 16px;
+border-radius: 5%;
+}
+
+#cardTienda:hover{
+box-shadow: 2px 2px 2px 2px lightgoldenrodyellow;
+transition: 400ms;
+}
+
+.card-title, .card-text{
+text-align: center;
+}
+
+.btnCarrito{
+border-radius: 10%;
+margin-top: 10px;
+margin-left: 22%;
+padding: 4px;
+}
+
+.imgTienda{
+width: 299px;
+height: 300px;
+border-bottom-left-radius: 2%;
+border-bottom-right-radius: 2%;
+border-top-left-radius: 6%;
+border-top-right-radius: 6% ;
+opacity: 0.9;
+position: relative;
+justify-content: center;
+align-items: center;
+display: flex;
+}
+
+#carritoNav{
+font-size: 200%;
+margin-left: -130%;
+color: #7a7a7a;
+margin-top: 1%;
+}
+
+#carrito{
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+  margin-top: 5%;
+  color: #7a7a7a;
+}
+
+thead{
+  font-weight: 600;
+  letter-spacing: 0.8px;
+  color: #7a7a7a;
+} 
+
+hr{
+color: #7a7a7a;
+}
+th{
+  text-align: center;
+} 
+td{
+text-align: center;
+}
+
+.btnTrash{
+border: none;
+}
+
+#trash{
+font-size: 150%;
+color: lightcoral;
+}
+
+#trash:hover{
+transition: all;
+color: red;
+}
+
+#finalizacion{
+display: flex;
+flex-wrap: wrap;
+margin-left: 40%;
+margin-top: 10px;
+
+}
+
+#vaciarCarrito{
+margin: 10px;
+}
+
+#finalizarCompra{
+margin: 10px;
+}
+
+.alert{
+text-align: center;
+}
+
+
+/* VENTA BARCOS    VENTA BARCOS   VENTA BARCOS */
+
+
+
+.btnTienda{
+  margin-top: 2%;
+  margin-left: 41%;
+  padding: 8px 10px;
+  border-radius: 20%;
+  background-color: #AAF7E5;
+  color: black;
+  border-color: white;
+}
+
+
+.btnTienda:hover{
+  color: black;
+  background-color: #AAf2f2;
+  transition: all 400ms;
+  box-shadow:1px 1px 30px -5px #20202049;
+
+}
+
+  #divBarcos{
+ margin-left: 10%;
+ margin-right: 10%;
+ margin-top: 3%;
+  }
+
+#tituloVenta {
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 1px;
+    margin-top: 5%;
+    color: #7a7a7a;
+  }
+
+  #rowAlerta{
+    margin-left: 10%;
+    margin-top: 18%;
+  }
+  
+  .imgBarcos{
+    width: 238px;
+    height: 200px;
+    border-bottom-left-radius: 2%;
+    border-bottom-right-radius: 2%;
+    border-top-left-radius: 8%;
+    border-top-right-radius: 8% ;
+    opacity: 1;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: -4.6%;
+  }
+
+  #cardVenta{
+    border-top-left-radius: 8%;
+    border-top-right-radius: 8%;
+    margin: 1%;
+  }
+
+#cardVenta:hover{
+  box-shadow: 2px 2px 2px 2px lightgoldenrodyellow;
+  transition: 400ms;
+}

@@ -1,0 +1,51 @@
+[
+    {   
+        "id": 1, 
+        "nombre": "Kit Fondeo Ancla", 
+        "marca": "Roan", 
+        "medida": "7,50 metros", 
+        "precio": "$ 6.590",
+        "img": "img/tienda/fondeo/imagen1.jpg"
+    },
+    {   
+        "id": 2, 
+        "nombre": "Kit Fondeo Ancla", 
+        "marca": "Roan", 
+        "medida": "6,30 metros", 
+        "precio": "$ 6.200",
+        "img": "img/tienda/fondeo/imagen2.jpg"
+    },
+    {   
+        "id": 3, 
+        "nombre": "Kit Fondeo Ancla", 
+        "marca": "Roan", 
+        "medida": "5,70 metros", 
+        "precio": "$ 5.200",
+        "img": "img/tienda/fondeo/imagen3.jpg"
+    },
+    {   
+        "id": 4, 
+        "nombre": "Kit Fondeo Ancla", 
+        "marca": "Roan", 
+        "medida": "4,30 metros", 
+        "precio": "$ 3.990",
+        "img": "img/tienda/fondeo/imagen4.jpg"
+    },
+    {   
+        "id": 5, 
+        "nombre": "Kit Fondeo Ancla", 
+        "marca": "Roan", 
+        "medida": "2,50 metros", 
+        "precio": "$ 3.100",
+        "img": "img/tienda/fondeo/imagen5.jpg"
+    },
+    {   
+        "id": 6, 
+        "nombre": "Ancla de capa", 
+        "marca": "DCP", 
+        "medida": "1,30 metros", 
+        "precio": "$ 2.778",
+        "img": "img/tienda/fondeo/imagen6.jpg"
+    }
+
+]

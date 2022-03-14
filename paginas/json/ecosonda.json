@@ -1,0 +1,74 @@
+[
+    {   
+        "id": 1, 
+        "nombre": "Striker", 
+        "version": "4", 
+        "marca": "Garmin", 
+        "precio": "$ 28.000",
+        "img": "img/tienda/ecosonda/imagen1.jpg"
+    },
+    {   
+        "id": 2, 
+        "nombre": "Striker", 
+        "version": "4 Portable", 
+        "marca": "Garmin", 
+        "precio": "$ 57.000",
+        "img": "img/tienda/ecosonda/imagen2.jpg"
+    },
+    {   
+        "id": 3, 
+        "nombre": "Striker", 
+        "version": "4 Plus", 
+        "marca": "Garmin", 
+        "precio": "$ 32.000",
+        "img": "img/tienda/ecosonda/imagen3.jpg"
+    },
+    {   
+        "id": 4, 
+        "nombre": "Striker", 
+        "version": "4cv Plus", 
+        "marca": "Garmin", 
+        "precio": "41.000",
+        "img": "img/tienda/ecosonda/imagen4.jpg"
+    },
+    {   
+        "id": 5, 
+        "nombre": "Striker", 
+        "version": "7cv", 
+        "marca": "Garmin", 
+        "precio": "$ 90.000",
+        "img": "img/tienda/ecosonda/imagen5.jpg"
+    },
+    {   
+        "id": 6, 
+        "nombre": "Striker", 
+        "version": "7cv Plus", 
+        "marca": "Garmin", 
+        "precio": "$ 113.000",
+        "img": "img/tienda/ecosonda/imagen6.jpg"
+    },
+    {   
+        "id": 7, 
+        "nombre": "Striker Vivid", 
+        "version": "5cv GT20", 
+        "marca": "Garmin", 
+        "precio": "$ 55.000",
+        "img": "img/tienda/ecosonda/imagen7.jpg"
+    },
+    {   
+        "id": 8, 
+        "nombre": "Striker Vivid", 
+        "version": "5cv", 
+        "marca": "Garmin", 
+        "precio": "$ 49.000",
+        "img": "img/tienda/ecosonda/imagen8.jpg"
+    },
+    {   
+        "id": 9, 
+        "nombre": "Striker Vivid", 
+        "version": "7cv GT20", 
+        "marca": "Garmin", 
+        "precio": "$ 73.000",
+        "img": "img/tienda/ecosonda/imagen9.jpg"
+    }
+]

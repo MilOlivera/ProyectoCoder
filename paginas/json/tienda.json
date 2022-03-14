@@ -1,0 +1,226 @@
+[
+    {   
+        "id": 1, 
+        "nombre": "Mercury", 
+        "version": "40 HP | 2 TIEMPOS", 
+        "marca": "Fuera de borda", 
+        "precio":  945000,
+        "img": "img/tienda/motores/mercury40.jpg"
+    },
+    {   
+        "id": 2, 
+        "nombre": "Mercury", 
+        "version": "50 HP | 2 TIEMPOS", 
+        "marca": "Fuera de borda", 
+        "precio": 1281000,
+        "img": "img/tienda/motores/mercury50.jpg"
+    },
+    {   
+        "id": 3, 
+        "nombre": "Mercury", 
+        "version": "150 HP | 4 TIEMPOS", 
+        "marca": "Fuera de borda", 
+        "precio": 2940000,
+        "img": "img/tienda/motores/mercury150.jpg"
+    },
+    {   
+        "id": 4, 
+        "nombre": "Yamaha", 
+        "version": "115 HP | 4 TIEMPOS", 
+        "marca": "Fuera de borda", 
+        "precio": 2814000,
+        "img": "img/tienda/motores/yamaha115.jpg"
+    },
+    {   
+        "id": 5, 
+        "nombre": "Yamaha", 
+        "version": "90 HP | 4 TIEMPOS", 
+        "marca": "Fuera de borda", 
+        "precio": 2478000,
+        "img": "img/tienda/motores/yamaha90.jpg"
+    },
+    {   
+        "id": 6, 
+        "nombre": "Yamaha", 
+        "version": "60 HP | 4 TIEMPOS", 
+        "marca": "Fuera de borda", 
+        "precio": 1995000,
+        "img": "img/tienda/motores/yamaha60.jpg"
+    },
+    {   
+        "id": 7, 
+        "nombre": "Yamaha", 
+        "version": "25 HP | 2 TIEMPOS", 
+        "marca": "Fuera de borda", 
+        "precio": 651000,
+        "img": "img/tienda/motores/yamaha25.jpg"
+    },
+    {   
+        "id": 8, 
+        "nombre": "Honda", 
+        "version": "250 HP | 4 TIEMPOS", 
+        "marca": "Fuera de borda", 
+        "precio": 4515000,
+        "img": "img/tienda/motores/honda250.jpg"
+    },
+    {   
+        "id": 9, 
+        "nombre": "Honda", 
+        "version": "150 HP | 4 TIEMPOS", 
+        "marca": "Fuera de borda", 
+        "precio": 3664500,
+        "img": "img/tienda/motores/honda150.jpg"
+    },
+    {   
+        "id": 10, 
+        "nombre": "Honda", 
+        "version": "90 HP | 4 TIEMPOS", 
+        "marca": "Fuera de borda", 
+        "precio": 2446500,
+        "img": "img/tienda/motores/honda90.jpg"
+    },
+    {   
+        "id": 11, 
+        "nombre": "Honda", 
+        "version": "60 HP | 4 TIEMPOS", 
+        "marca": "Fuera de borda", 
+        "precio": 2152500,
+        "img": "img/tienda/motores/honda60.jpg"
+    },
+    {   
+        "id": 12, 
+        "nombre": "Evinrude", 
+        "version": "30 HP | 2 TIEMPOS", 
+        "marca": "Fuera de borda", 
+        "precio": 1827000,
+        "img": "img/tienda/motores/evinrude30.jpg"
+    },
+    {   
+        "id": 13, 
+        "nombre": "Striker", 
+        "version": "4", 
+        "marca": "Garmin", 
+        "precio": 28000,
+        "img": "img/tienda/ecosonda/imagen1.jpg"
+    },
+    {   
+        "id": 14, 
+        "nombre": "Striker", 
+        "version": "4 Portable", 
+        "marca": "Garmin", 
+        "precio": 57000,
+        "img": "img/tienda/ecosonda/imagen2.jpg"
+    },
+    {   
+        "id": 15, 
+        "nombre": "Striker", 
+        "version": "4 Plus", 
+        "marca": "Garmin", 
+        "precio": 32000,
+        "img": "img/tienda/ecosonda/imagen3.jpg"
+    },
+    {   
+        "id": 16, 
+        "nombre": "Striker", 
+        "version": "4cv Plus", 
+        "marca": "Garmin", 
+        "precio": 41000,
+        "img": "img/tienda/ecosonda/imagen4.jpg"
+    },
+    {   
+        "id": 17, 
+        "nombre": "Striker", 
+        "version": "7cv", 
+        "marca": "Garmin", 
+        "precio": 90000,
+        "img": "img/tienda/ecosonda/imagen5.jpg"
+    },
+    {   
+        "id": 18, 
+        "nombre": "Striker", 
+        "version": "7cv Plus", 
+        "marca": "Garmin", 
+        "precio":  113000,
+        "img": "img/tienda/ecosonda/imagen6.jpg"
+    },
+    {   
+        "id": 19, 
+        "nombre": "Striker Vivid", 
+        "version": "5cv GT20", 
+        "marca": "Garmin", 
+        "precio": 55000,
+        "img": "img/tienda/ecosonda/imagen7.jpg"
+    },
+    {   
+        "id": 20, 
+        "nombre": "Striker Vivid", 
+        "version": "5cv", 
+        "marca": "Garmin", 
+        "precio": 49000,
+        "img": "img/tienda/ecosonda/imagen8.jpg"
+    },
+    {   
+        "id": 21, 
+        "nombre": "Striker Vivid", 
+        "version": "7cv GT20", 
+        "marca": "Garmin", 
+        "precio": 73000,
+        "img": "img/tienda/ecosonda/imagen9.jpg"
+    },
+    {   
+        "id": 22, 
+        "nombre": "GpsMap", 
+        "version": "7410 xsv", 
+        "marca": "Garmin", 
+        "precio": 458000,
+        "img": "img/tienda/gps/imagen1.jpg"
+    },
+    {   
+        "id": 23, 
+        "nombre": "GpsMap", 
+        "version": "7412", 
+        "marca": "Garmin", 
+        "precio": 591000,
+        "img": "img/tienda/gps/imagen2.jpg"
+    },
+    {   
+        "id": 24, 
+        "nombre": "GpsMap", 
+        "version": "7412 xsv", 
+        "marca": "Garmin", 
+        "precio": 687000,
+        "img": "img/tienda/gps/imagen3.jpg"
+    },
+    {   
+        "id": 25, 
+        "nombre": "Kit Fondeo Ancla", 
+        "marca": "Roan", 
+        "version": "7,50 metros", 
+        "precio": 6590,
+        "img": "img/tienda/fondeo/imagen1.jpg"
+    },
+    {   
+        "id": 26, 
+        "nombre": "Kit Fondeo Ancla", 
+        "marca": "Roan", 
+        "version": "6,30 metros", 
+        "precio": 6200,
+        "img": "img/tienda/fondeo/imagen2.jpg"
+    },
+    {   
+        "id": 27, 
+        "nombre": "Kit Fondeo Ancla", 
+        "marca": "Roan", 
+        "version": "5,70 metros", 
+        "precio": 5200,
+        "img": "img/tienda/fondeo/imagen3.jpg"
+    },
+    {   
+        "id": 28, 
+        "nombre": "Kit Fondeo Ancla", 
+        "marca": "Roan", 
+        "version": "4,30 metros", 
+        "precio": 3990,
+        "img": "img/tienda/fondeo/imagen4.jpg"
+    }
+]

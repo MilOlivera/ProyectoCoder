@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PUERTA NORTE | Centro Nautico</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="../home.css">
+
+</head>
+
+<body>
+
+    <header id="headerTienda">
+        <div class="container1">
+            <img src="img/home/pnorte.png" alt="" class="pnorte1" id="logoTienda">
+            <h1>PUERTA NORTE</h1>
+            <nav class="tienda" id="navTienda">
+                <a href="../home.html" id="colorJS">HOME</a>
+                <a href="astillero.html" id="colorJS1">ASTILLERO</a>
+                <a href="guarderia.html" id="colorJS2">GUARDERIA</a>
+                <a href="ventaBarcos.html" id="colorJS3">EMBARCACIONES EN VENTA</a>
+                <a href="contacto.html" id="colorJS4">CONTACTO</a>
+            </nav>
+        </div>
+    </header>
+
+
+<div class="darkMode" id="darkMode">
+    <button id="btnDarkMode"><i class="fas fa-moon" id="dark"> | Dark Mode</i></button>
+    <button id="btnLightMode"><i class="fas fa-sun" id="light"> | Light Mode</i></button>
+    </div>
+
+    
+    <div class="container2">
+        <div class="row" id="tiendaTitulo">
+            <div class="col">
+                <h2>TIENDA ONLINE</h2>
+            </div>
+            <div class="col"><a href="#tablaCarrito"><i class="fas fa-shopping-cart" id="carritoNav"></i></a>
+            </div>
+        </div>
+    </div>
+
+ 
+    <div class="contenedorTienda" id="tienda"></div>
+
+
+   
+    <table class="table" id="tablaCarrito">
+        <h1 id="carrito">CARRITO</h1>
+        <hr>
+        <thead>
+          <tr>
+            <th scope="col"></th>
+            <th scope="col">NOMBRE</th>
+            <th scope="col">VERSION</th>
+            <th scope="col">MARCA</th>
+            <th scope="col">PRECIO</th>
+          </tr>
+        </thead>
+        </table>
+    
+    <div id="finalizacion">
+    <div id="vaciarCarrito"><button type="button" class="btnVaciar btn-danger">VACIAR CARRITO</button></div>
+    <div id="finalizarCompra"><button type="button" class="btnFinalizar btn-success">FINALIZAR COMPRA</button></div>
+    </div>
+    <div id="mensaje"></div>
+
+
+
+    <footer>
+        <div class="contenedor-footer">
+            <div class="box-footer">
+                <div class="logo">
+                    <img src="img/home/pnorte.png" alt="" class="pnorte2">
+                </div>
+
+            </div>
+            <div class="box-footer">
+                <h2>REDES SOCIALES</h2>
+                <a href="http://www.facebook.com"><i class="fab fa-facebook"></i>Facebook</a>
+                <a href="http://www.twitter.com"><i class="fab fa-twitter"></i>Twitter</a>
+                <a href="http://www.instagram.com"><i class="fab fa-instagram"></i>Instagram</a>
+            </div>
+            <div class="box-footer1">
+                <h2>CONTACTANOS</h2>
+                <a href="https://www.google.com/maps/place/Puerta+Delta/@-34.3804021,-58.6624807,15z/data=!4m5!3m4!1s0x0:0x75b161db81c619f9!8m2!3d-34.3803989!4d-58.6624841"
+                    class="linkFooter">
+                    <p class="contacto"><i class="fas fa-map-marker-alt" id="contacto"></i>Arribeños 699, Benavidez,
+                        Provincia de Buenos Aires</p>
+                </a>
+                <a href="https://www.whatsapp.com/" class="linkFooter">
+                    <p class="contacto"><i class="fas fa-phone" id="contacto"></i>+54 11 5454 8998</p>
+                </a>
+                <a href="https://outlook.live.com/owa/" class="linkFooter">
+                    <p class="contacto"><i class="fas fa-envelope" id="contacto"></i>info@puertanorte.com.ar</p>
+                </a>
+            </div>
+        </div>
+        <div class="box-copyright">
+            <hr>
+            <p>Todos los derechos reservados © 2022 |
+                <b>MILTON OLIVERA</b>
+            </p>
+        </div>
+    </footer>
+
+
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+        <script src="https://kit.fontawesome.com/61c262ebee.js" crossorigin="anonymous"></script>
+        <script src="../darkMode.js"></script>
+        <script src="tienda.js"></script>
+    
+</body>
+
+
+</html>
